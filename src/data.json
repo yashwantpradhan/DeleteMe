@@ -1,0 +1,12 @@
+{
+  "facebook": "https://www.facebook.com/help/delete_account",
+  "instagram": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Faccountscenter.instagram.com%2Fpersonal_info%2Faccount_ownership_and_control%2Fdeletion_and_deactivation%3F__coig_login%3D1",
+  "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fsettings%2Fdelete",
+  "linkedin": "https://www.linkedin.com/help/linkedin/answer/2839",
+  "snapchat": "https://accounts.snapchat.com/v2/login?continue=%2Faccounts%2Fdelete_account",
+  "tiktok": "https://www.tiktok.com/legal/account-removal",
+  "reddit": "https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fdelete",
+  "pinterest": "https://www.pinterest.com/settings/account-settings/",
+  "youtube / google": "https://myaccount.google.com/delete-services-or-account",
+  "telegram": "https://my.telegram.org/auth?to=deactivate"
+}
