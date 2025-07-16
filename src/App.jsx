@@ -2,12 +2,13 @@ import { useState } from 'react';
 import './App.css';
 import Card from './components/Card.jsx';
 import data from './data.json';
+import bgImage from '/src/bgImage.jpg'
 
 function App() {
   return (
     <div
       className="min-h-screen w-full bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('/src/bgImage.jpg')" }}
+      style={{ backgroundImage: `url(${bgImage})` }}
     >
       <div className=" backdrop-blur-sm min-h-screen px-4 py-10">
         <div className="text-4xl sm:text-6xl font-black text-center text-white">
